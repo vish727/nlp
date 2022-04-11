@@ -116,3 +116,7 @@ Serving Flask app "flaskr" (lazy loading)
 ## Data Flow
 
 ![Pipeline](Pipeline.png)
+
+## Demo
+
+![nlp-demo](https://user-images.githubusercontent.com/54330666/162819792-e4680e6f-bc76-47d1-be85-91ab0457b5cf.gif)
